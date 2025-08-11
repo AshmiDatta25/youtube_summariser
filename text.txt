@@ -1,0 +1,9 @@
+C:\Users\Ashmi\Downloads\youtube-transcript-api-master.zip
+
+cd C:\Users\Ashmi\aiwprojects\fastapiai\youtube-transcript-api-master
+pip install
+
+
+AIzaSyCJecQ8qkWfOGXwpDN9ltjUqChoZWqJ_qA
+
+python ytsum.py "https://www.youtube.com/watch?v=Kw4UHNnilPY" --save-transcript --save-summary
